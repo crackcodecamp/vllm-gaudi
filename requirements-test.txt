@@ -112,7 +112,7 @@ einops==0.8.0
     #   encodec
     #   vector-quantize-pytorch
     #   vocos
-einx==0.3.0
+einx==0.4.1
     # via vector-quantize-pytorch
 email-validator==2.2.0
     # via pydantic
