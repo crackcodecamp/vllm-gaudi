@@ -197,7 +197,7 @@ kaleido==0.2.1
     # via genai-perf
 kiwisolver==1.4.7
     # via matplotlib
-lazy-loader==0.4
+lazy-loader==0.5
     # via librosa
 libnacl==2.1.0
     # via tensorizer
